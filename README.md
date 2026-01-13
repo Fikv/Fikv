@@ -1,3 +1,4 @@
+![me](https://github.com/Fikv/Fikv/blob/main/Weavile%20Gif.gif)
 ## Tech Stack Summary:
 - **Backend:** Java, Go, Spring Boot, Kafka, gRPC
 - **Frontend:** React, Angular  
