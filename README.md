@@ -1,5 +1,5 @@
 <!-- Header -->
-<h3 align="center">Backend Engineer (-> going to Fullstack soon) | Distributed Systems | Builder</h3>
+<h3 align="center">Backend Engineer (-> going to Fullstack soon) | builder</h3>
 
 <p align="center">
   <img src="https://github.com/Fikv/Fikv/blob/main/Weavile%20Gif.gif" alt="coding gif" width="420"/>
