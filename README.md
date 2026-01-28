@@ -7,9 +7,9 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack B) 
 
-### 🧠 Backend
+###  Backend
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
@@ -18,26 +18,26 @@
   <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white"/>
 </p>
 
-### 🎨 Frontend
+###  Frontend
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-### ☁️ DevOps & Cloud
+###  DevOps & Cloud
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-### 🧩 Architecture
+### Architecture
 <p>
   <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Event--Driven%20Systems-4CAF50?style=for-the-badge"/>
 </p>
 
-### 🔌 Other
+###  Other
 <p>
   <img src="https://img.shields.io/badge/Embedded%20Systems-555555?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Learning-📚-blue?style=for-the-badge"/>
